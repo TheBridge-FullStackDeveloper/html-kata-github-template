@@ -22,7 +22,7 @@ No te preocupes, que entenderás el propósito de esto más adelante.
 
 ## Iteraciones ##
 
-:steak: [Chuleta](https://rogerdudler.github.io/git-guide)
+:piece_of_meat: [Chuleta](https://rogerdudler.github.io/git-guide)
 
 1. Crear un repositorio con el nombre `plantilla-html` en la página [Github](https://github.com)
 
