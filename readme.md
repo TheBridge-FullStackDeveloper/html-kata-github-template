@@ -28,4 +28,4 @@ No te preocupes, que entenderás el propósito de esto más adelante.
 
 2. [Convertir dicho repositorio en plantilla](https://help.github.com/es/enterprise/2.19/user/github/creating-cloning-and-archiving-repositories/creating-a-template-repository)
 
-3. [Crear un nuevo repositorio desde una plantilla](https://help.github.com/es/enterprise/2.19/user/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
+3. [Crear un nuevo repositorio desde la plantilla_creada](https://help.github.com/es/enterprise/2.19/user/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
