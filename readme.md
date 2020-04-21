@@ -26,6 +26,8 @@ No te preocupes, que entenderás el propósito de esto más adelante.
 
 1. Crear un repositorio con el nombre `plantilla-html` en la página [Github](https://github.com)
 
-2. [Convertir dicho repositorio en plantilla](https://help.github.com/es/enterprise/2.19/user/github/creating-cloning-and-archiving-repositories/creating-a-template-repository)
+2. Crear un archivo HTML (index.html) con una estructura básica (head, body) y dentro del body tenga al menos un h1 y un  p
 
-3. [Crear un nuevo repositorio desde la plantilla_creada](https://help.github.com/es/enterprise/2.19/user/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
+3. [Convertir dicho repositorio en plantilla](https://help.github.com/es/enterprise/2.19/user/github/creating-cloning-and-archiving-repositories/creating-a-template-repository)
+
+4. [Crear un nuevo repositorio desde la plantilla_creada](https://help.github.com/es/enterprise/2.19/user/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
